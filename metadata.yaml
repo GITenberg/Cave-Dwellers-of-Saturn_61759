@@ -1,0 +1,25 @@
+_repo: Cave-Dwellers-of-Saturn_61759
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wiggin, John
+    gutenberg_agent_id: '51600'
+    url: http://www.gutenberg.org/2009/agents/51600
+description: ''
+gutenberg_issued: '2020-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61759'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Martians -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Saturn (Planet) -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Cave-Dwellers of Saturn
+url: http://www.gutenberg.org/ebooks/61759
